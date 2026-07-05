@@ -111,45 +111,45 @@ python main.py
 
 ### Add Book
 
-![Add Book](screenshots/01_add_book.png)
+<img src="screenshots/01_add_book.png" width="700">
 
 ### View Books
 
-![View Books](screenshots/02_view_books.png)
+<img src="screenshots/02_view_books.png" width="700">
 
 ### Add Member
 
-![Add Member](screenshots/03_add_member.png)
+<img src="screenshots/03_add_member.png" width="700">
 
 ### Issue Book
 
-![Issue Book](screenshots/04_issue_book.png)
+<img src="screenshots/04_issue_book.png" width="700">
 
 ### Return Book
 
-![Return Book](screenshots/05_return_book.png)
+<img src="screenshots/05_return_book.png" width="700">
 
 ### AI Book Recommendation
 
-![AI Recommendation](screenshots/06_ai_recommendation.png)
+<img src="screenshots/06_ai_recommendation.png" width="700">
 
 ### AI Chatbot
 
-![AI Chatbot](screenshots/07_chatbot.png)
+<img src="screenshots/07_chatbot.png" width="700">
 
 ### Smart Book Search
 
-![Smart Search](screenshots/08_search.png)
+<img src="screenshots/08_search.png" width="700">
 
 ### Library Analytics
 
-![Library Analytics](screenshots/09_analytics.png)
+<img src="screenshots/09_analytics.png" width="700">
 
 ### Issue History
 
-![Issue History](screenshots/10_issue_history.png)
+<img src="screenshots/10_issue_history.png" width="700">
 
 ### Most Issued Books
 
-![Most Issued Books](screenshots/11_most_issued.png)
+<img src="screenshots/11_most_issued.png" width="700">
 
