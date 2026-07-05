@@ -1,4 +1,13 @@
 # 📚 AI Library Management System
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+
+![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
+
+![Pandas](https://img.shields.io/badge/Pandas-2.x-green)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-red)
+
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 An AI-powered Library Management System built using **Python** and **MySQL**.
 
