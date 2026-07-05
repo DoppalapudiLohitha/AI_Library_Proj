@@ -1,0 +1,11 @@
+Book_ID,Title,Author,Category
+1,Python Basics,John Smith,Programming
+2,Python Crash Course,Eric Matthes,Programming
+3,Learning Python,Mark Lutz,Programming
+4,Automate the Boring Stuff,Al Sweigart,Programming
+5,Data Science Handbook,Jake VanderPlas,Data Science
+6,Machine Learning Basics,Aurélien Géron,AI
+7,Deep Learning with Python,Francois Chollet,AI
+8,SQL Essentials,John Patrick,Database
+9,Database Systems,C J Date,Database
+10,Artificial Intelligence,Alice Brown,AI
