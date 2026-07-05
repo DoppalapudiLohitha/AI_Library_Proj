@@ -76,7 +76,7 @@ AI_Library_Proj/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI_Library_Proj.git
+git clone https://github.com/DoppalapudiLohitha/AI_Library_Proj.git
 ```
 
 ### 2. Open the project
