@@ -152,7 +152,7 @@ python main.py
 
 ### Library Analytics
 
-<img src="screenshots/09_analytics.png" width="700">
+<img src="screenshots/09_analytics.png" width="500">
 
 ### Issue History
 
